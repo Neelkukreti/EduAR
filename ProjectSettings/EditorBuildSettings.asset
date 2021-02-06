@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CylindricalTarget.unity
+    guid: 8a96b2fafbe33524e8953985aa56df54
+  - enabled: 0
+    path: Assets/Scenes/PlayScene.unity
+    guid: 75fde1f71fb984041b5c4c3619315f0c
+  - enabled: 1
+    path: Assets/Scenes/AlphaScene.unity
+    guid: 1a73fff2d82f57442af6445963833ab1
+  m_configObjects: {}

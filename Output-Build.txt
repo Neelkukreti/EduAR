@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: VuforiaScripts, Configuration: Debug Any CPU ------
+1>  VuforiaScripts -> H:\HACKIIIT\Temp\bin\Debug\VuforiaScripts.dll
+2>------ Build started: Project: VuforiaEditorScripts, Configuration: Debug Any CPU ------
+2>  VuforiaEditorScripts -> H:\HACKIIIT\Temp\bin\Debug\VuforiaEditorScripts.dll
+3>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+3>  Assembly-CSharp -> H:\HACKIIIT\Temp\bin\Debug\Assembly-CSharp.dll
+========== Build: 3 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

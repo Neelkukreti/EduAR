@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bac" size="8.000000 17.323309" />
+    <ImageTarget name="asdasd" size="8.000000 17.323309" />
+    <CylinderTarget name="test" sideLength="20.000000"/>
+  </Tracking>
+</QCARConfig>
